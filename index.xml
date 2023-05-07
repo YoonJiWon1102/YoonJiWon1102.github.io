@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sam Robbins&#39; Website on My New Hugo Site</title>
-    <link>http://YoonJiWon1102.github.io/</link>
-    <description>Recent content in Sam Robbins&#39; Website on My New Hugo Site</description>
+    <title>Sam Robbins&#39; Website on MyWebSite</title>
+    <link>https://yoonjiwon1102.github.io/</link>
+    <description>Recent content in Sam Robbins&#39; Website on MyWebSite</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 19 Oct 2017 15:26:15 +0000</lastBuildDate><atom:link href="http://YoonJiWon1102.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 19 Oct 2017 15:26:15 +0000</lastBuildDate><atom:link href="https://yoonjiwon1102.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo Portfolio Website</title>
-      <link>http://YoonJiWon1102.github.io/portfolio/hugo-portfolio-website/</link>
+      <link>https://yoonjiwon1102.github.io/portfolio/hugo-portfolio-website/</link>
       <pubDate>Fri, 19 Jun 2020 23:00:00 +0000</pubDate>
       
-      <guid>http://YoonJiWon1102.github.io/portfolio/hugo-portfolio-website/</guid>
+      <guid>https://yoonjiwon1102.github.io/portfolio/hugo-portfolio-website/</guid>
       <description>I created my portfolio website using Hugo and UIKit, it serves as an online resume containing all my work.
 This has been created as a theme so that others can use and adapt it.
 Sections Homepage The homepage provides the basic information about you, including links to social media, skills you have, things you&amp;rsquo;ve done and your education. This page makes good use of UIKit grid and cards for organising all the information and ensuring it is responsive to work on mobile devices.</description>
@@ -20,22 +20,33 @@ Sections Homepage The homepage provides the basic information about you, includi
     
     <item>
       <title>Team project without GitHub</title>
-      <link>http://YoonJiWon1102.github.io/portfolio/example-team-no-github/</link>
+      <link>https://yoonjiwon1102.github.io/portfolio/example-team-no-github/</link>
       <pubDate>Fri, 19 Jun 2020 23:00:00 +0000</pubDate>
       
-      <guid>http://YoonJiWon1102.github.io/portfolio/example-team-no-github/</guid>
+      <guid>https://yoonjiwon1102.github.io/portfolio/example-team-no-github/</guid>
       <description>This is some content</description>
     </item>
     
     <item>
       <title>Making a new Website</title>
-      <link>http://YoonJiWon1102.github.io/blog/first-blog/</link>
+      <link>https://yoonjiwon1102.github.io/blog/first-blog/</link>
       <pubDate>Tue, 31 Dec 2019 12:14:34 +0600</pubDate>
       
-      <guid>http://YoonJiWon1102.github.io/blog/first-blog/</guid>
+      <guid>https://yoonjiwon1102.github.io/blog/first-blog/</guid>
       <description>For a long time this website has had a couple of links to contact me, but those days are over.
 Now I have a brand new Hugo website with a custom written theme complete with
  A homepage with more social links, and description of my skills An about page with description of who I am A portfolio page to showcase all my projects A blog  Why Hugo? The first question is why a site builder?</description>
+    </item>
+    
+    <item>
+      <title>Making a new Website</title>
+      <link>https://yoonjiwon1102.github.io/blog/second-blog/</link>
+      <pubDate>Tue, 31 Dec 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://yoonjiwon1102.github.io/blog/second-blog/</guid>
+      <description>2023년 1학기 동안에 오픈소스 SW 입문 과목을 수강하면서 웹 개발과 관련된 여러가지 기술들을 배웠다. 그 중 Hugo SSG(Static Site Generation; 정적 사이트 생성기)를 사용하여 정적인 사이트를 만드는 법을 배웠다.
+이 기술들을 활용하여 나의 개인 웹페이지를 만들어 본다. 이 페이지는 다음과 같은 내용들을 포함한다.
+나의 사회관계망 링크 나의 스킬들 내 소개 페이지(About) 내가 진행했던 작업들(Portfolio) 블로그</description>
     </item>
     
   </channel>
