@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 19 Oct 2017 15:26:15 +0000</lastBuildDate><atom:link href="https://yoonjiwon1102.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>ThridBlog</title>
+      <link>https://yoonjiwon1102.github.io/blog/thridblog/</link>
+      <pubDate>Wed, 10 May 2023 07:31:52 +0000</pubDate>
+      
+      <guid>https://yoonjiwon1102.github.io/blog/thridblog/</guid>
+      <description>블로그 세번째 페이지 만들기</description>
+    </item>
+    
+    <item>
       <title>Hugo Portfolio Website</title>
       <link>https://yoonjiwon1102.github.io/portfolio/hugo-portfolio-website/</link>
       <pubDate>Fri, 19 Jun 2020 23:00:00 +0000</pubDate>

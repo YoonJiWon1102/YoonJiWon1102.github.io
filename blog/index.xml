@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate><atom:link href="https://yoonjiwon1102.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>ThridBlog</title>
+      <link>https://yoonjiwon1102.github.io/blog/thridblog/</link>
+      <pubDate>Wed, 10 May 2023 07:31:52 +0000</pubDate>
+      
+      <guid>https://yoonjiwon1102.github.io/blog/thridblog/</guid>
+      <description>블로그 세번째 페이지 만들기</description>
+    </item>
+    
+    <item>
       <title>Making a new Website</title>
       <link>https://yoonjiwon1102.github.io/blog/first-blog/</link>
       <pubDate>Tue, 31 Dec 2019 12:14:34 +0600</pubDate>
