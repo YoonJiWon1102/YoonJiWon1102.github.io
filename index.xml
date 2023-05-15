@@ -13,7 +13,8 @@
       <pubDate>Wed, 10 May 2023 07:31:52 +0000</pubDate>
       
       <guid>https://yoonjiwon1102.github.io/blog/thridblog/</guid>
-      <description>블로그 세번째 페이지 만들기</description>
+      <description>블로그 세번째 페이지 만들기
+연습 겸 세번쨰 블로그까지 만들어봤습니다.</description>
     </item>
     
     <item>
@@ -42,9 +43,7 @@ Sections Homepage The homepage provides the basic information about you, includi
       <pubDate>Tue, 31 Dec 2019 12:14:34 +0600</pubDate>
       
       <guid>https://yoonjiwon1102.github.io/blog/first-blog/</guid>
-      <description>For a long time this website has had a couple of links to contact me, but those days are over.
-Now I have a brand new Hugo website with a custom written theme complete with
- A homepage with more social links, and description of my skills An about page with description of who I am A portfolio page to showcase all my projects A blog  Why Hugo? The first question is why a site builder?</description>
+      <description>첫번쨰 블로그 내용 수정하기.</description>
     </item>
     
     <item>
